@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To shew the countreys consent for the drayning of Lindesy Levell.</title>
+            <author>Killigrew, William, Sir, 1606-1695.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25479</idno><idno type="EEBO-CITATION">99887507</idno>
+  <idno type="VID">190482</idno>
+  <idno type="EEBO-PROQUEST">2240893771</idno>
+  
+            <idno type="STC">Wing K470A</idno>
+            <idno type="STC">Interim Tract Supplement Guide L.R.305.a.7.[24]</idno>
+            <idno type="STC">ESTC R227781</idno>
+            <idno type="PROQUEST">ocm99887507</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99887507e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25479)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190482)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C21:2[83])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To shew the countreys consent for the drayning of Lindesy Levell.</title>
+                  <author>Killigrew, William, Sir, 1606-1695.</author>
+                  <author>Heron, Henry, Sir.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1671]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Signed and dated at end: The 16. of March. 1670. William Killigrew, Henry Heron. Dated according to Lady day dating.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Drainage --  England --  Lincolnshire --  Early works to 1800.</term>
+               <term type="geographic_name">Fens, The (England) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:190482:1"/>
+            <head>To shew the Countreys consent for the drayning of <hi>Lindesey Levell.</hi>
+            </head>
+            <p n="1">1. <seg rend="decorInit">T</seg>He Commission of Sewers was before all other Courts of Record, and a Decree of Sewers for non-payment of Taxes, Enrolled in <hi>Chancery</hi> with the Royal Assent, under the Great Seal is only controlable in Parlia<g ref="char:EOLhyphen"/>ment, and all our Decrees are so Enrolled.</p>
+            <p n="2">2. By many antient Records, (now in Mr. <hi>Goldesbrough</hi>'s Custody) 'tis evident that these Fenns called <hi>Lindesey Level</hi> now in question, were hurtfully surrounded with Waters, some hundred years since, and have been several times endeavoured to be drayned by several Persons of great quality, but could not; which shews the Countreys desire and consent to the drayning in those dayes.</p>
+            <p n="3">3. By the Countreys proffer to Sir <hi>Anthony Thomas,</hi> and Sir <hi>William Alife</hi> to drayn the said Fenns, 'tis evident these Lands did need drayning, and that the Countrey did Consent, and desire to have them drayned.</p>
+            <p n="4">4. By <hi>Edmund Jackson</hi> Mayor of <hi>Boston,</hi> Sir <hi>Anthony Irby, John Brown, Robert Callis</hi> Serjeant at Law, <hi>Herbert Pelham, Richard Skipper, Leonard Cammack, George Thorold, Richard Barfoot,</hi> and the rest of the Commissioners, certifying the late King of the need of drayning, and their Compliance and Assistance therein, the Countreys consent for drayning is again declared.</p>
+            <p n="5">5. By the Countreys publick and joyfull reception of the Earl of <hi>Lindesey</hi> to be drayner, when recommended by the late King, their consent is further declared.</p>
+            <p n="6">6. By the Commissioners viewing all the drowned Lands in Boats, from one end of the <hi>Level</hi> to the other, and then laying seve<g ref="char:EOLhyphen"/>ral Taxes for three years time (which were not paid) and thereby declared their consent, and desire to have the drayning proceed, because if the Taxes had been pay'd, the Earl could not be Undertaker.</p>
+            <p n="7">7. By Sir <hi>Charles Huseyes</hi> Bill put into this House, and promoted by all the Members that serve for <hi>Lincolnshire,</hi> 'tis evident they did consent, and desire to be drayned.</p>
+            <p n="8">8. The Commissioners being 32 persons of eminent quality, most of them, and many Lords and owners of the said Fenns, did after three years treating in presence of many thousand Commoners at a publick Sessions of Sewers, proffer and contract with the Earl of <hi>Lindesey</hi> for 24000 Acres as a compensation, for his charge and hazard of drayning the said <hi>Levell,</hi> and no Commissioners dissenting, and this done in the face of many thousand Commoners in open Court no man dissenting, but with loud <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>clamati<g ref="char:EOLhyphen"/>ons of joy attended the Earl to his lodging, which did sufficiently declare their free consents.</p>
+            <p n="9">9. Note that the Commissioners of Sewers were then 217 persons whereof were
+<list>
+                  <item>Earles 13.</item>
+                  <item>Barrons 5.</item>
+                  <item>Knights 43.</item>
+                  <item>Esquires 93.</item>
+                  <item>Gent. 63.</item>
+               </list> in all 217.</p>
+            <p n="10">10. Of which number the Commissioners that acted in viewing and taxing the Lands and making the contract, and all the other Decrees, were 78 Commissioners, most of them Lords and owners, whereas by the Law of Sewers, Six Comissioners are sufficient; publick notice being given for every Session, which was strictly observed, by which those Commissioners who appeared not, are included as consenting; and what ever is so decreed by the Bench in the face of the Country so publickly Summoned, is taken for the consent of all men any way Interessed, unless some do oppose, which no man did during the Earls three years treaty, nor at his Contract making, nor in two years more, before he began to work, nor in all the time of making the Works, in Building, and Planting, being about nine years time spent.</p>
+            <p>Note also that the Countrey people did make all the Works, built all the drayners houses, Planted and plowed their Lands, brought in their Harvests two years, and received all their Moneys, and no one word of dislike to the drayning, but all incourage<g ref="char:EOLhyphen"/>ment to the Work, which shewed a full consent; though the Commissioners have full power to make such Contracts, and to or<g ref="char:EOLhyphen"/>der such publick Works, for an universal good to the Nation, if any froward perverse men should oppose; all this well conside<g ref="char:EOLhyphen"/>red, 'tis not possible to have a more unanimous consent from a whole Countrey, nor is it at all required, or any where practised that every individual man should consent: If this Work had been disliked in those days, why did not these mens fathers (who call themselves Lords of the Fenns) oppose the Earl in the least word, which would have deterred him and his Participants from lay<g ref="char:EOLhyphen"/>ing out such vast Sums of Money; But now thirty years after an expence of 80 thousand pounds, invited to it by such an univer<g ref="char:EOLhyphen"/>sal desire, and so great aplause, 'tis strange that these unjust Clamours, and more unjust demands should now arise.</p>
+            <p>Note that the Commissioners do covenant in their Contract with the Earl to become Sutors to the next parliament to confirm it by an Act, by which it is evident there was neither fraud nor compulsion on the Earls part, and so full and chearfull consent from the Countrey, as cannot be more expected; all which has been proved at several times at the House Barr, by the Records, and di<g ref="char:EOLhyphen"/>vers Witnesses of good quality, and Commoners of that Countrey; And thus we conceive that we have shewed a general unani<g ref="char:EOLhyphen"/>mous consent of all the Commissioners, and also of all the Countrey, in those days, when those who now oppose were very young.</p>
+            <closer>
+               <dateline>
+                  <date>The 16. of <hi>March.</hi> 1670.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>William Killigrew.</item>
+                     <item>Henry Heron.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
